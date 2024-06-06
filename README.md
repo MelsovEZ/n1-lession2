@@ -1,4 +1,9 @@
-## Getting Started
+## Getting started
+
+1. Visit the [homepage](https://melsovez.github.io/n1-lession2/).
+2. Explore the features and content available.
+
+## Installation
 
 Running the development server:
 
